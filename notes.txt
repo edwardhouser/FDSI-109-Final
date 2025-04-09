@@ -1,0 +1,24 @@
+how to Create a vitrual environment in the terminal
+
+1.  installl the library
+
+mac: python3 -m pip install virtualenv
+
+2.  create the virtual environment inside the server folder
+cd server
+
+mac: python3 -m venv venv
+
+// this makes virtual environment (first venv) in folder "venv" (the second venv)
+
+
+3. Launch the virtual environment
+// you need to launch the virtual environment every time you work on the project
+source venv/bin/activate
+
+to de-activate the environment
+mac:  deactivate
+
+
+4.  Install Flask (flask is a python library like JQuery is a JS library) (inside the venv)
+mac: python3 -m pip install flask
