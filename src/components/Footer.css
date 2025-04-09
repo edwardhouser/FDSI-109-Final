@@ -1,0 +1,32 @@
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 70px;
+    background-color: #4E5166;
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+.footer title {
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.footer ul {
+    display: flex;
+    list-style: none;
+}
+
+.footer ul li {
+    width: 60px;
+    margin: 0 10px;
+
+}
+
+.footer .title {
+
+}

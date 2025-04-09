@@ -1,0 +1,14 @@
+.thankyou {
+    width: 80%;
+    border: 2px solid #20a4f3;
+    border-radius: 5px;
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 15px;
+    background-image: linear-gradient(to right, #05895e, #009489, #009db4, #00a3da, #20a4f3);
+
+
+}
+

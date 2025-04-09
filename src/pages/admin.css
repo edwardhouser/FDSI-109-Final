@@ -1,0 +1,30 @@
+.admin{
+    padding-top: 3rem;
+    background-image: url("/images/background3.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 680px
+}
+
+.admin .parent {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.admin .parent .left{
+
+    background-color: white;
+
+    
+}
+
+.admin .parent .right{
+    background-color: white;
+
+    
+}
+
+.admin h1 {
+    color: white;
+}

@@ -1,0 +1,54 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 10px; 
+    background-image: linear-gradient(to right, #05895e, #009489, #009db4, #00a3da, #20a4f3);
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.navbar .title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.navbar ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.navbar ul li {
+    width: 60px;
+    margin: 0 10px;
+
+}
+
+.navbar ul li a:hover {
+    color: tomato;
+    font-weight: 600;
+    cursor: pointer;
+    
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: #4E5166;
+
+}
+
+.navbar .cart-container{
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+
+}
+
+.navbar .cart-container i{
+    margin-right: 5px;
+}
+
+.navbar .cart-container {
+
+}

@@ -1,0 +1,11 @@
+.catalog{
+    background-image: url("/images/background2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.catalog h1 {
+    text-align: center;
+    color: blue;
+}
+

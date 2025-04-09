@@ -1,0 +1,13 @@
+.about {
+    min-height: 200px;
+    background-color: rgba(74, 74, 72, 0.302);
+}
+
+.about h2{
+    text-align: center;
+    color: darkcyan;
+}
+
+.about img {
+    max-width: 150px;
+}
